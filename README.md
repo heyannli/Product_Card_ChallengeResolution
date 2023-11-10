@@ -15,12 +15,16 @@ Os Visitantes devem conseguir:
 
 ### Screenshot
 
+<div>
+  <h5>Esta é a Solução em despositivos com tamanho melhor a 705px</h5>
+  <img src="https://user-images.githubusercontent.com/150404073/282183533-ba351f75-a22e-433a-9f79-bf7e1e69dcad.jpeg">
 
+  <h5>Está é a versão Desktop</h5>
+  <img src="https://user-images.githubusercontent.com/150404073/282183542-955187cf-a852-4c02-b640-06825caec3d1.jpeg">
+</div>
 
 ### Links
-
-- Solução URL: [Solução no Mentor](https://your-solution-url.com)
-- Live Site URL: [Product Card](https://your-live-site-url.com)
+- Live Site URL: [Product Card](https://product-card-challenge-resolution.vercel.app/)
 
 ## Meu Processo
 
